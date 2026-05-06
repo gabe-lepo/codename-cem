@@ -1,0 +1,16 @@
+GIMP Palette
+Name: Zone 1 - Void Ruins
+Columns: 12
+#
+  8  14  24	Void
+ 15  27  45	BG deep
+ 30  58  95	BG mid
+ 36  63  90	Terrain dark
+ 58 104 128	Terrain mid
+ 88 144 168	Terrain light
+138 200 216	Rim light
+ 26 188 176	Teal glow
+232 160  32	Sword / energy
+192 104  40	Enemy warm
+ 56  88 112	Enemy cold
+245 240 232	Player / UI

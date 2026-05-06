@@ -1,0 +1,16 @@
+GIMP Palette
+Name: Zone 4 - Ashen Chrome
+Columns: 12
+#
+ 10   9   8	Void
+ 24  20  18	BG deep
+ 46  40  32	BG mid
+ 62  52  40	Terrain dark
+ 90  78  64	Terrain mid
+122 104  88	Terrain light
+176 160 144	Rim light
+212  72  32	Slag / fire
+ 96 184 224	Sword / cryo
+232 120  48	Enemy ember
+160 184 200	Machine sheen
+240 236 232	Player / UI

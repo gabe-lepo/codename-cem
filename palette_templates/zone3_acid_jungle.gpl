@@ -1,0 +1,16 @@
+GIMP Palette
+Name: Zone 3 - Acid Jungle
+Columns: 12
+#
+  8  14   8	Void
+ 13  26  16	BG deep
+ 28  50  32	BG mid
+ 40  66  44	Terrain dark
+ 58  92  62	Terrain mid
+ 82 122  86	Terrain light
+120 168 124	Rim light
+160 212  22	Acid / hazard
+232 192  32	Sword / spore
+128 144 160	Steel / machine
+192  72  40	Enemy flesh
+232 240 216	Player / UI
