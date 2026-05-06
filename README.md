@@ -11,6 +11,8 @@
 - Focus on difficult/interesting level designs before enemies and complex mechanics
 - Not turn based, real-time action/fights
 - Larger than life backgrounds (parallax)
+- Some level of annoying trope like miyazaki's poison swamps and silksong
+  enemies that do 4 hearts of damage
 
 ## Sound
 
@@ -51,4 +53,4 @@
 - Instead of magic fireball, character unlocks "firmware update" to shoot? cast
   somehow flame.
   - Or tech tree for a (mini) flamethrower
-big balls
+    big balls
